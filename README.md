@@ -11,7 +11,7 @@ Developed a machine learning system that analyses user listening habits on Spoti
 ## Features
 
 - Data loading and preprocessing
-- Machine learning model for product-category prediction
+- Machine learning model for to analyse user listening habits on Spotify to provide music recommendation
 - Supports Python, Visual Studio Code, and Jupyter Notebook
 
 ## Installation
